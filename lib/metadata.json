@@ -1,6 +1,6 @@
 {
   "vaultName": "Charlotte",
-  "lastExport": 1738079048107,
+  "lastExport": 1738164799731,
   "pluginVersion": "1.8.01",
   "validBodyClasses": "publish css-settings-manager theme-dark show-inline-title show-ribbon",
   "useCustomHeadContent": false,
@@ -32,17 +32,21 @@
     "Charlie/Charlie.md",
     "Charlie/Rainbow.md",
     "Charlie/Voice training.md",
+    "Droplet/Resources/Images/amycow.png",
     "Droplet/Resources/Images/Chelsea_Minty_icon.png",
     "Droplet/Resources/Images/days of christmas.jpg",
     "Droplet/Resources/Images/hilda.jpg",
+    "Droplet/Resources/Songs/Creepshow.mp3",
     "Droplet/Amy.md",
     "Droplet/Chelsea.md",
     "Droplet/Dahlia.md",
     "Droplet/Leaf.md",
     "Droplet/Luna.md",
     "Droplet/Myna.md",
+    "Droplet/Orchid.md",
     "Droplet/Ronni.md",
     "Droplet/Rosade.md",
+    "Droplet/Stormy.md",
     "Droplet/Watching a lot of cartoons.md",
     "Droplet/Watching a lot of Christmas Movies in December.md",
     "Olivia's system/Resources/Images/aera.png",
@@ -147,19 +151,19 @@
   ],
   "fileInfo": {
     "Antoine/Resources/Images/Antoine.jpg": {
-      "modifiedTime": 1738079048107,
+      "modifiedTime": 1738164799731,
       "sourceSize": 146906,
       "exportedPath": "antoine/resources/images/antoine.jpg",
       "dependencies": []
     },
     "Antoine/Resources/Images/cigaret.jpg": {
-      "modifiedTime": 1738079048107,
+      "modifiedTime": 1738164799731,
       "sourceSize": 7443,
       "exportedPath": "antoine/resources/images/cigaret.jpg",
       "dependencies": []
     },
     "Antoine/Antoine.md": {
-      "modifiedTime": 1738079048107,
+      "modifiedTime": 1738164799731,
       "sourceSize": 453,
       "exportedPath": "antoine/antoine.html",
       "dependencies": [
@@ -167,13 +171,13 @@
       ]
     },
     "Antoine/Antoine stopped drinking.md": {
-      "modifiedTime": 1738079048107,
+      "modifiedTime": 1738164799731,
       "sourceSize": 240,
       "exportedPath": "antoine/antoine-stopped-drinking.html",
       "dependencies": []
     },
     "Antoine/Antoine stopped smoking.md": {
-      "modifiedTime": 1738079048107,
+      "modifiedTime": 1738164799731,
       "sourceSize": 867,
       "exportedPath": "antoine/antoine-stopped-smoking.html",
       "dependencies": [
@@ -181,115 +185,115 @@
       ]
     },
     "Antoine/Bergerie.md": {
-      "modifiedTime": 1738079048107,
+      "modifiedTime": 1738164799731,
       "sourceSize": 195,
       "exportedPath": "antoine/bergerie.html",
       "dependencies": []
     },
     "Antoine/Bernardino.md": {
-      "modifiedTime": 1738079048107,
+      "modifiedTime": 1738164799731,
       "sourceSize": 86,
       "exportedPath": "antoine/bernardino.html",
       "dependencies": []
     },
     "Antoine/Christian.md": {
-      "modifiedTime": 1738079048107,
+      "modifiedTime": 1738164799731,
       "sourceSize": 18,
       "exportedPath": "antoine/christian.html",
       "dependencies": []
     },
     "Antoine/Coming back to the castle.md": {
-      "modifiedTime": 1738079048107,
+      "modifiedTime": 1738164799731,
       "sourceSize": 317,
       "exportedPath": "antoine/coming-back-to-the-castle.html",
       "dependencies": []
     },
     "Antoine/Gaellen.md": {
-      "modifiedTime": 1738079048107,
+      "modifiedTime": 1738164799731,
       "sourceSize": 29,
       "exportedPath": "antoine/gaellen.html",
       "dependencies": []
     },
     "Antoine/Keto.md": {
-      "modifiedTime": 1738079048107,
+      "modifiedTime": 1738164799731,
       "sourceSize": 1282,
       "exportedPath": "antoine/keto.html",
       "dependencies": []
     },
     "Antoine/Melisande.md": {
-      "modifiedTime": 1738079048107,
+      "modifiedTime": 1738164799731,
       "sourceSize": 84,
       "exportedPath": "antoine/melisande.html",
       "dependencies": []
     },
     "Antoine/Nicolas.md": {
-      "modifiedTime": 1738079048107,
+      "modifiedTime": 1738164799731,
       "sourceSize": 119,
       "exportedPath": "antoine/nicolas.html",
       "dependencies": []
     },
     "Antoine/Pandora.md": {
-      "modifiedTime": 1738079048107,
+      "modifiedTime": 1738164799731,
       "sourceSize": 156,
       "exportedPath": "antoine/pandora.html",
       "dependencies": []
     },
     "Antoine/Physical exercises.md": {
-      "modifiedTime": 1738079048107,
+      "modifiedTime": 1738164799731,
       "sourceSize": 1182,
       "exportedPath": "antoine/physical-exercises.html",
       "dependencies": []
     },
     "Antoine/Pokemon Daycare.md": {
-      "modifiedTime": 1738079048107,
+      "modifiedTime": 1738164799731,
       "sourceSize": 393,
       "exportedPath": "antoine/pokemon-daycare.html",
       "dependencies": []
     },
     "Antoine/Sylvain.md": {
-      "modifiedTime": 1738079048107,
+      "modifiedTime": 1738164799731,
       "sourceSize": 519,
       "exportedPath": "antoine/sylvain.html",
       "dependencies": []
     },
     "Charlie/Resources/Images/5-13-15-eyesmodified-lightened.png": {
-      "modifiedTime": 1738079048107,
+      "modifiedTime": 1738164799731,
       "sourceSize": 156403,
       "exportedPath": "charlie/resources/images/5-13-15-eyesmodified-lightened.png",
       "dependencies": []
     },
     "Charlie/Resources/Images/CharliePicture.jpg": {
-      "modifiedTime": 1738079048107,
+      "modifiedTime": 1738164799731,
       "sourceSize": 43412,
       "exportedPath": "charlie/resources/images/charliepicture.jpg",
       "dependencies": []
     },
     "Charlie/Resources/Images/emojis charlie.png": {
-      "modifiedTime": 1738079048107,
+      "modifiedTime": 1738164799731,
       "sourceSize": 1712943,
       "exportedPath": "charlie/resources/images/emojis-charlie.png",
       "dependencies": []
     },
     "Charlie/Resources/Images/white cropped lucy sigil.png": {
-      "modifiedTime": 1738079048107,
+      "modifiedTime": 1738164799731,
       "sourceSize": 93477,
       "exportedPath": "charlie/resources/images/white-cropped-lucy-sigil.png",
       "dependencies": []
     },
     "Charlie/Resources/Songs/Carly Rae Jepsen - Call Me Maybe.m4a": {
-      "modifiedTime": 1738079048107,
+      "modifiedTime": 1738164799731,
       "sourceSize": 3227210,
       "exportedPath": "charlie/resources/songs/carly-rae-jepsen-call-me-maybe.m4a",
       "dependencies": []
     },
     "Charlie/Resources/hazbin.zip": {
-      "modifiedTime": 1738079048107,
+      "modifiedTime": 1738164799731,
       "sourceSize": 41186310,
       "exportedPath": "charlie/resources/hazbin.zip",
       "dependencies": []
     },
     "Charlie/Charlie.md": {
-      "modifiedTime": 1738079048107,
+      "modifiedTime": 1738164799731,
       "sourceSize": 2458,
       "exportedPath": "charlie/charlie.html",
       "dependencies": [
@@ -301,43 +305,58 @@
       ]
     },
     "Charlie/Rainbow.md": {
-      "modifiedTime": 1738079048107,
+      "modifiedTime": 1738164799731,
       "sourceSize": 70,
       "exportedPath": "charlie/rainbow.html",
       "dependencies": []
     },
     "Charlie/Voice training.md": {
-      "modifiedTime": 1738079048107,
+      "modifiedTime": 1738164799731,
       "sourceSize": 459,
       "exportedPath": "charlie/voice-training.html",
       "dependencies": []
     },
+    "Droplet/Resources/Images/amycow.png": {
+      "modifiedTime": 1738164799731,
+      "sourceSize": 284706,
+      "exportedPath": "droplet/resources/images/amycow.png",
+      "dependencies": []
+    },
     "Droplet/Resources/Images/Chelsea_Minty_icon.png": {
-      "modifiedTime": 1738079048107,
+      "modifiedTime": 1738164799731,
       "sourceSize": 744499,
       "exportedPath": "droplet/resources/images/chelsea_minty_icon.png",
       "dependencies": []
     },
     "Droplet/Resources/Images/days of christmas.jpg": {
-      "modifiedTime": 1738079048107,
+      "modifiedTime": 1738164799731,
       "sourceSize": 9165,
       "exportedPath": "droplet/resources/images/days-of-christmas.jpg",
       "dependencies": []
     },
     "Droplet/Resources/Images/hilda.jpg": {
-      "modifiedTime": 1738079048107,
+      "modifiedTime": 1738164799731,
       "sourceSize": 11695,
       "exportedPath": "droplet/resources/images/hilda.jpg",
       "dependencies": []
     },
-    "Droplet/Amy.md": {
-      "modifiedTime": 1738079048107,
-      "sourceSize": 231,
-      "exportedPath": "droplet/amy.html",
+    "Droplet/Resources/Songs/Creepshow.mp3": {
+      "modifiedTime": 1738164799731,
+      "sourceSize": 4502184,
+      "exportedPath": "droplet/resources/songs/creepshow.mp3",
       "dependencies": []
     },
+    "Droplet/Amy.md": {
+      "modifiedTime": 1738164799731,
+      "sourceSize": 2217,
+      "exportedPath": "droplet/amy.html",
+      "dependencies": [
+        "droplet/resources/images/amycow.png",
+        "droplet/resources/songs/creepshow.mp3"
+      ]
+    },
     "Droplet/Chelsea.md": {
-      "modifiedTime": 1738079048107,
+      "modifiedTime": 1738164799731,
       "sourceSize": 1147,
       "exportedPath": "droplet/chelsea.html",
       "dependencies": [
@@ -345,43 +364,55 @@
       ]
     },
     "Droplet/Dahlia.md": {
-      "modifiedTime": 1738079048107,
+      "modifiedTime": 1738164799731,
       "sourceSize": 19,
       "exportedPath": "droplet/dahlia.html",
       "dependencies": []
     },
     "Droplet/Leaf.md": {
-      "modifiedTime": 1738079048107,
+      "modifiedTime": 1738164799731,
       "sourceSize": 19,
       "exportedPath": "droplet/leaf.html",
       "dependencies": []
     },
     "Droplet/Luna.md": {
-      "modifiedTime": 1738079048107,
+      "modifiedTime": 1738164799731,
       "sourceSize": 19,
       "exportedPath": "droplet/luna.html",
       "dependencies": []
     },
     "Droplet/Myna.md": {
-      "modifiedTime": 1738079048107,
+      "modifiedTime": 1738164799731,
       "sourceSize": 19,
       "exportedPath": "droplet/myna.html",
       "dependencies": []
     },
+    "Droplet/Orchid.md": {
+      "modifiedTime": 1738164799731,
+      "sourceSize": 249,
+      "exportedPath": "droplet/orchid.html",
+      "dependencies": []
+    },
     "Droplet/Ronni.md": {
-      "modifiedTime": 1738079048107,
+      "modifiedTime": 1738164799731,
       "sourceSize": 19,
       "exportedPath": "droplet/ronni.html",
       "dependencies": []
     },
     "Droplet/Rosade.md": {
-      "modifiedTime": 1738079048107,
+      "modifiedTime": 1738164799731,
       "sourceSize": 552,
       "exportedPath": "droplet/rosade.html",
       "dependencies": []
     },
+    "Droplet/Stormy.md": {
+      "modifiedTime": 1738164799731,
+      "sourceSize": 135,
+      "exportedPath": "droplet/stormy.html",
+      "dependencies": []
+    },
     "Droplet/Watching a lot of cartoons.md": {
-      "modifiedTime": 1738079048107,
+      "modifiedTime": 1738164799731,
       "sourceSize": 1033,
       "exportedPath": "droplet/watching-a-lot-of-cartoons.html",
       "dependencies": [
@@ -389,7 +420,7 @@
       ]
     },
     "Droplet/Watching a lot of Christmas Movies in December.md": {
-      "modifiedTime": 1738079048107,
+      "modifiedTime": 1738164799731,
       "sourceSize": 591,
       "exportedPath": "droplet/watching-a-lot-of-christmas-movies-in-december.html",
       "dependencies": [
@@ -397,61 +428,61 @@
       ]
     },
     "Olivia's system/Resources/Images/aera.png": {
-      "modifiedTime": 1738079048107,
+      "modifiedTime": 1738164799731,
       "sourceSize": 963452,
       "exportedPath": "olivia's-system/resources/images/aera.png",
       "dependencies": []
     },
     "Olivia's system/Resources/Images/cynder.jpg": {
-      "modifiedTime": 1738079048107,
+      "modifiedTime": 1738164799731,
       "sourceSize": 9614,
       "exportedPath": "olivia's-system/resources/images/cynder.jpg",
       "dependencies": []
     },
     "Olivia's system/Resources/Images/cynder in body.jpg": {
-      "modifiedTime": 1738079048107,
+      "modifiedTime": 1738164799731,
       "sourceSize": 408853,
       "exportedPath": "olivia's-system/resources/images/cynder-in-body.jpg",
       "dependencies": []
     },
     "Olivia's system/Resources/Images/olivia.jpg": {
-      "modifiedTime": 1738079048107,
+      "modifiedTime": 1738164799731,
       "sourceSize": 628845,
       "exportedPath": "olivia's-system/resources/images/olivia.jpg",
       "dependencies": []
     },
     "Olivia's system/Resources/Images/twilight twinkle cutiemark.jpg": {
-      "modifiedTime": 1738079048107,
+      "modifiedTime": 1738164799731,
       "sourceSize": 167230,
       "exportedPath": "olivia's-system/resources/images/twilight-twinkle-cutiemark.jpg",
       "dependencies": []
     },
     "Olivia's system/Resources/Songs/Avril Lavigne - Bad Girl.m4a": {
-      "modifiedTime": 1738079048107,
+      "modifiedTime": 1738164799731,
       "sourceSize": 2830941,
       "exportedPath": "olivia's-system/resources/songs/avril-lavigne-bad-girl.m4a",
       "dependencies": []
     },
     "Olivia's system/Resources/Songs/Avril Lavigne - Keep Holding On (Official Audio).m4a": {
-      "modifiedTime": 1738079048107,
+      "modifiedTime": 1738164799731,
       "sourceSize": 3931852,
       "exportedPath": "olivia's-system/resources/songs/avril-lavigne-keep-holding-on-(official-audio).m4a",
       "dependencies": []
     },
     "Olivia's system/Resources/Songs/Avril Lavigne - Smile (Lyrics).m4a": {
-      "modifiedTime": 1738079048107,
+      "modifiedTime": 1738164799731,
       "sourceSize": 3688560,
       "exportedPath": "olivia's-system/resources/songs/avril-lavigne-smile-(lyrics).m4a",
       "dependencies": []
     },
     "Olivia's system/Resources/Songs/The Devil Within.m4a": {
-      "modifiedTime": 1738079048107,
+      "modifiedTime": 1738164799731,
       "sourceSize": 3727339,
       "exportedPath": "olivia's-system/resources/songs/the-devil-within.m4a",
       "dependencies": []
     },
     "Olivia's system/Aera.md": {
-      "modifiedTime": 1738079048107,
+      "modifiedTime": 1738164799731,
       "sourceSize": 704,
       "exportedPath": "olivia's-system/aera.html",
       "dependencies": [
@@ -459,19 +490,19 @@
       ]
     },
     "Olivia's system/Ben.md": {
-      "modifiedTime": 1738079048107,
+      "modifiedTime": 1738164799731,
       "sourceSize": 22,
       "exportedPath": "olivia's-system/ben.html",
       "dependencies": []
     },
     "Olivia's system/Check Cynder's playlist.md": {
-      "modifiedTime": 1738079048107,
+      "modifiedTime": 1738164799731,
       "sourceSize": 1149,
       "exportedPath": "olivia's-system/check-cynder's-playlist.html",
       "dependencies": []
     },
     "Olivia's system/Cynder.md": {
-      "modifiedTime": 1738079048107,
+      "modifiedTime": 1738164799731,
       "sourceSize": 1637,
       "exportedPath": "olivia's-system/cynder.html",
       "dependencies": [
@@ -483,13 +514,13 @@
       ]
     },
     "Olivia's system/Intensity of our love.md": {
-      "modifiedTime": 1738079048107,
+      "modifiedTime": 1738164799731,
       "sourceSize": 562,
       "exportedPath": "olivia's-system/intensity-of-our-love.html",
       "dependencies": []
     },
     "Olivia's system/Olivia.md": {
-      "modifiedTime": 1738079048107,
+      "modifiedTime": 1738164799731,
       "sourceSize": 1954,
       "exportedPath": "olivia's-system/olivia.html",
       "dependencies": [
@@ -497,31 +528,31 @@
       ]
     },
     "Olivia's system/Olivia and Rachel coming to live in France.md": {
-      "modifiedTime": 1738079048107,
+      "modifiedTime": 1738164799731,
       "sourceSize": 683,
       "exportedPath": "olivia's-system/olivia-and-rachel-coming-to-live-in-france.html",
       "dependencies": []
     },
     "Olivia's system/Olivia has been homeless.md": {
-      "modifiedTime": 1738079048107,
+      "modifiedTime": 1738164799731,
       "sourceSize": 445,
       "exportedPath": "olivia's-system/olivia-has-been-homeless.html",
       "dependencies": []
     },
     "Olivia's system/Olivia is really optimistic about money.md": {
-      "modifiedTime": 1738079048107,
+      "modifiedTime": 1738164799731,
       "sourceSize": 359,
       "exportedPath": "olivia's-system/olivia-is-really-optimistic-about-money.html",
       "dependencies": []
     },
     "Olivia's system/Olivia learning a trick to have more empathy.md": {
-      "modifiedTime": 1738079048107,
+      "modifiedTime": 1738164799731,
       "sourceSize": 509,
       "exportedPath": "olivia's-system/olivia-learning-a-trick-to-have-more-empathy.html",
       "dependencies": []
     },
     "Olivia's system/Olivia shared playlists.md": {
-      "modifiedTime": 1738079048107,
+      "modifiedTime": 1738164799731,
       "sourceSize": 1308,
       "exportedPath": "olivia's-system/olivia-shared-playlists.html",
       "dependencies": [
@@ -531,19 +562,19 @@
       ]
     },
     "Olivia's system/Olivia wants to marry us.md": {
-      "modifiedTime": 1738079048107,
+      "modifiedTime": 1738164799731,
       "sourceSize": 1223,
       "exportedPath": "olivia's-system/olivia-wants-to-marry-us.html",
       "dependencies": []
     },
     "Olivia's system/Olivia wants us to live together.md": {
-      "modifiedTime": 1738079048107,
+      "modifiedTime": 1738164799731,
       "sourceSize": 969,
       "exportedPath": "olivia's-system/olivia-wants-us-to-live-together.html",
       "dependencies": []
     },
     "Olivia's system/Rachel.md": {
-      "modifiedTime": 1738079048107,
+      "modifiedTime": 1738164799731,
       "sourceSize": 655,
       "exportedPath": "olivia's-system/rachel.html",
       "dependencies": [
@@ -552,31 +583,31 @@
       ]
     },
     "Olivia's system/Rachel is dependent on Olivia.md": {
-      "modifiedTime": 1738079048107,
+      "modifiedTime": 1738164799731,
       "sourceSize": 192,
       "exportedPath": "olivia's-system/rachel-is-dependent-on-olivia.html",
       "dependencies": []
     },
     "Olivia's system/spiritual entities had an impact on Olivia's life.md": {
-      "modifiedTime": 1738079048107,
+      "modifiedTime": 1738164799731,
       "sourceSize": 486,
       "exportedPath": "olivia's-system/spiritual-entities-had-an-impact-on-olivia's-life.html",
       "dependencies": []
     },
     "Olivia's system/Vlad.md": {
-      "modifiedTime": 1738079048107,
+      "modifiedTime": 1738164799731,
       "sourceSize": 516,
       "exportedPath": "olivia's-system/vlad.html",
       "dependencies": []
     },
     "templates/dt.md": {
-      "modifiedTime": 1738079048107,
+      "modifiedTime": 1738164799731,
       "sourceSize": 34,
       "exportedPath": "templates/dt.html",
       "dependencies": []
     },
     "templates/img.md": {
-      "modifiedTime": 1738079048107,
+      "modifiedTime": 1738164799731,
       "sourceSize": 100,
       "exportedPath": "templates/img.html",
       "dependencies": [
@@ -585,55 +616,55 @@
       ]
     },
     "Z.Base Resources/Images/bishopswife.png": {
-      "modifiedTime": 1738079048107,
+      "modifiedTime": 1738164799731,
       "sourceSize": 155934,
       "exportedPath": "z.base-resources/images/bishopswife.png",
       "dependencies": []
     },
     "Z.Base Resources/Images/mickeychristmas.jpg": {
-      "modifiedTime": 1738079048107,
+      "modifiedTime": 1738164799731,
       "sourceSize": 9826,
       "exportedPath": "z.base-resources/images/mickeychristmas.jpg",
       "dependencies": []
     },
     "Z.Base Resources/Images/raclette.jpg": {
-      "modifiedTime": 1738079048107,
+      "modifiedTime": 1738164799731,
       "sourceSize": 10968,
       "exportedPath": "z.base-resources/images/raclette.jpg",
       "dependencies": []
     },
     "Z.Base Resources/Images/reveal.jpg": {
-      "modifiedTime": 1738079048107,
+      "modifiedTime": 1738164799731,
       "sourceSize": 5631,
       "exportedPath": "z.base-resources/images/reveal.jpg",
       "dependencies": []
     },
     "Z.Base Resources/Images/sexual.jpg": {
-      "modifiedTime": 1738079048107,
+      "modifiedTime": 1738164799731,
       "sourceSize": 4841,
       "exportedPath": "z.base-resources/images/sexual.jpg",
       "dependencies": []
     },
     "Z.Base Resources/Images/usa.jpg": {
-      "modifiedTime": 1738079048107,
+      "modifiedTime": 1738164799731,
       "sourceSize": 14148,
       "exportedPath": "z.base-resources/images/usa.jpg",
       "dependencies": []
     },
     "Z.Base Resources/Images/voice.jpg": {
-      "modifiedTime": 1738079048107,
+      "modifiedTime": 1738164799731,
       "sourceSize": 5874,
       "exportedPath": "z.base-resources/images/voice.jpg",
       "dependencies": []
     },
     "Autism.md": {
-      "modifiedTime": 1738079048107,
+      "modifiedTime": 1738164799731,
       "sourceSize": 175,
       "exportedPath": "autism.html",
       "dependencies": []
     },
     "Daily notes December 2024.md": {
-      "modifiedTime": 1738079048107,
+      "modifiedTime": 1738164799731,
       "sourceSize": 6610,
       "exportedPath": "daily-notes-december-2024.html",
       "dependencies": [
@@ -647,349 +678,361 @@
       ]
     },
     "index.md": {
-      "modifiedTime": 1738079048107,
+      "modifiedTime": 1738164799731,
       "sourceSize": 283,
       "exportedPath": "index.html",
       "dependencies": []
     },
     "Notes January 2025.md": {
-      "modifiedTime": 1738079048107,
+      "modifiedTime": 1738164799731,
       "sourceSize": 1561,
       "exportedPath": "notes-january-2025.html",
       "dependencies": []
     },
     "antoine/resources/images/antoine.jpg": {
-      "modifiedTime": 1738079048107,
+      "modifiedTime": 1738164799731,
       "sourceSize": 146906,
       "exportedPath": "antoine/resources/images/antoine.jpg",
       "dependencies": []
     },
     "antoine/resources/images/cigaret.jpg": {
-      "modifiedTime": 1738079048107,
+      "modifiedTime": 1738164799731,
       "sourceSize": 7443,
       "exportedPath": "antoine/resources/images/cigaret.jpg",
       "dependencies": []
     },
     "charlie/resources/images/charliepicture.jpg": {
-      "modifiedTime": 1738079048107,
+      "modifiedTime": 1738164799731,
       "sourceSize": 43412,
       "exportedPath": "charlie/resources/images/charliepicture.jpg",
       "dependencies": []
     },
     "charlie/resources/images/emojis-charlie.png": {
-      "modifiedTime": 1738079048107,
+      "modifiedTime": 1738164799731,
       "sourceSize": 1712943,
       "exportedPath": "charlie/resources/images/emojis-charlie.png",
       "dependencies": []
     },
     "charlie/resources/images/5-13-15-eyesmodified-lightened.png": {
-      "modifiedTime": 1738079048107,
+      "modifiedTime": 1738164799731,
       "sourceSize": 156403,
       "exportedPath": "charlie/resources/images/5-13-15-eyesmodified-lightened.png",
       "dependencies": []
     },
     "charlie/resources/songs/carly-rae-jepsen-call-me-maybe.m4a": {
-      "modifiedTime": 1738079048107,
+      "modifiedTime": 1738164799731,
       "sourceSize": 3227210,
       "exportedPath": "charlie/resources/songs/carly-rae-jepsen-call-me-maybe.m4a",
       "dependencies": []
     },
     "charlie/resources/images/white-cropped-lucy-sigil.png": {
-      "modifiedTime": 1738079048107,
+      "modifiedTime": 1738164799731,
       "sourceSize": 93477,
       "exportedPath": "charlie/resources/images/white-cropped-lucy-sigil.png",
       "dependencies": []
     },
+    "droplet/resources/images/amycow.png": {
+      "modifiedTime": 1738164799731,
+      "sourceSize": 284706,
+      "exportedPath": "droplet/resources/images/amycow.png",
+      "dependencies": []
+    },
+    "droplet/resources/songs/creepshow.mp3": {
+      "modifiedTime": 1738164799731,
+      "sourceSize": 4502184,
+      "exportedPath": "droplet/resources/songs/creepshow.mp3",
+      "dependencies": []
+    },
     "droplet/resources/images/chelsea_minty_icon.png": {
-      "modifiedTime": 1738079048107,
+      "modifiedTime": 1738164799731,
       "sourceSize": 744499,
       "exportedPath": "droplet/resources/images/chelsea_minty_icon.png",
       "dependencies": []
     },
     "droplet/resources/images/hilda.jpg": {
-      "modifiedTime": 1738079048107,
+      "modifiedTime": 1738164799731,
       "sourceSize": 11695,
       "exportedPath": "droplet/resources/images/hilda.jpg",
       "dependencies": []
     },
     "droplet/resources/images/days-of-christmas.jpg": {
-      "modifiedTime": 1738079048107,
+      "modifiedTime": 1738164799731,
       "sourceSize": 9165,
       "exportedPath": "droplet/resources/images/days-of-christmas.jpg",
       "dependencies": []
     },
     "olivia's-system/resources/images/aera.png": {
-      "modifiedTime": 1738079048107,
+      "modifiedTime": 1738164799731,
       "sourceSize": 963452,
       "exportedPath": "olivia's-system/resources/images/aera.png",
       "dependencies": []
     },
     "olivia's-system/resources/images/cynder.jpg": {
-      "modifiedTime": 1738079048107,
+      "modifiedTime": 1738164799731,
       "sourceSize": 9614,
       "exportedPath": "olivia's-system/resources/images/cynder.jpg",
       "dependencies": []
     },
     "olivia's-system/resources/images/cynder-in-body.jpg": {
-      "modifiedTime": 1738079048107,
+      "modifiedTime": 1738164799731,
       "sourceSize": 408853,
       "exportedPath": "olivia's-system/resources/images/cynder-in-body.jpg",
       "dependencies": []
     },
     "olivia's-system/resources/songs/avril-lavigne-smile-(lyrics).m4a": {
-      "modifiedTime": 1738079048107,
+      "modifiedTime": 1738164799731,
       "sourceSize": 3688560,
       "exportedPath": "olivia's-system/resources/songs/avril-lavigne-smile-(lyrics).m4a",
       "dependencies": []
     },
     "olivia's-system/resources/songs/avril-lavigne-bad-girl.m4a": {
-      "modifiedTime": 1738079048107,
+      "modifiedTime": 1738164799731,
       "sourceSize": 2830941,
       "exportedPath": "olivia's-system/resources/songs/avril-lavigne-bad-girl.m4a",
       "dependencies": []
     },
     "olivia's-system/resources/songs/avril-lavigne-keep-holding-on-(official-audio).m4a": {
-      "modifiedTime": 1738079048107,
+      "modifiedTime": 1738164799731,
       "sourceSize": 3931852,
       "exportedPath": "olivia's-system/resources/songs/avril-lavigne-keep-holding-on-(official-audio).m4a",
       "dependencies": []
     },
     "olivia's-system/resources/images/olivia.jpg": {
-      "modifiedTime": 1738079048107,
+      "modifiedTime": 1738164799731,
       "sourceSize": 628845,
       "exportedPath": "olivia's-system/resources/images/olivia.jpg",
       "dependencies": []
     },
     "lib/media/carly-rae-jepsen-call-me-maybe.m4a": {
-      "modifiedTime": 1738079048107,
+      "modifiedTime": 1738164799731,
       "sourceSize": 3227210,
       "exportedPath": "lib/media/carly-rae-jepsen-call-me-maybe.m4a",
       "dependencies": []
     },
     "olivia's-system/resources/images/twilight-twinkle-cutiemark.jpg": {
-      "modifiedTime": 1738079048107,
+      "modifiedTime": 1738164799731,
       "sourceSize": 167230,
       "exportedPath": "olivia's-system/resources/images/twilight-twinkle-cutiemark.jpg",
       "dependencies": []
     },
     "olivia's-system/resources/songs/the-devil-within.m4a": {
-      "modifiedTime": 1738079048107,
+      "modifiedTime": 1738164799731,
       "sourceSize": 3727339,
       "exportedPath": "olivia's-system/resources/songs/the-devil-within.m4a",
       "dependencies": []
     },
     "lib/media/charliepicture.jpg": {
-      "modifiedTime": 1738079048107,
+      "modifiedTime": 1738164799731,
       "sourceSize": 43412,
       "exportedPath": "lib/media/charliepicture.jpg",
       "dependencies": []
     },
     "z.base-resources/images/mickeychristmas.jpg": {
-      "modifiedTime": 1738079048107,
+      "modifiedTime": 1738164799731,
       "sourceSize": 9826,
       "exportedPath": "z.base-resources/images/mickeychristmas.jpg",
       "dependencies": []
     },
     "z.base-resources/images/voice.jpg": {
-      "modifiedTime": 1738079048107,
+      "modifiedTime": 1738164799731,
       "sourceSize": 5874,
       "exportedPath": "z.base-resources/images/voice.jpg",
       "dependencies": []
     },
     "z.base-resources/images/reveal.jpg": {
-      "modifiedTime": 1738079048107,
+      "modifiedTime": 1738164799731,
       "sourceSize": 5631,
       "exportedPath": "z.base-resources/images/reveal.jpg",
       "dependencies": []
     },
     "z.base-resources/images/usa.jpg": {
-      "modifiedTime": 1738079048107,
+      "modifiedTime": 1738164799731,
       "sourceSize": 14148,
       "exportedPath": "z.base-resources/images/usa.jpg",
       "dependencies": []
     },
     "z.base-resources/images/raclette.jpg": {
-      "modifiedTime": 1738079048107,
+      "modifiedTime": 1738164799731,
       "sourceSize": 10968,
       "exportedPath": "z.base-resources/images/raclette.jpg",
       "dependencies": []
     },
     "z.base-resources/images/sexual.jpg": {
-      "modifiedTime": 1738079048107,
+      "modifiedTime": 1738164799731,
       "sourceSize": 4841,
       "exportedPath": "z.base-resources/images/sexual.jpg",
       "dependencies": []
     },
     "z.base-resources/images/bishopswife.png": {
-      "modifiedTime": 1738079048107,
+      "modifiedTime": 1738164799731,
       "sourceSize": 155934,
       "exportedPath": "z.base-resources/images/bishopswife.png",
       "dependencies": []
     },
     "lib/scripts/graph-wasm.wasm": {
-      "modifiedTime": 1738079048107,
+      "modifiedTime": 1738164799731,
       "sourceSize": 23377,
       "exportedPath": "lib/scripts/graph-wasm.wasm",
       "dependencies": []
     },
     "lib/fonts/94f2f163d4b698242fef.otf": {
-      "modifiedTime": 1738079048107,
+      "modifiedTime": 1738164799731,
       "sourceSize": 66800,
       "exportedPath": "lib/fonts/94f2f163d4b698242fef.otf",
       "dependencies": []
     },
     "lib/fonts/72505e6a122c6acd5471.woff2": {
-      "modifiedTime": 1738079048107,
+      "modifiedTime": 1738164799731,
       "sourceSize": 104232,
       "exportedPath": "lib/fonts/72505e6a122c6acd5471.woff2",
       "dependencies": []
     },
     "lib/fonts/2d5198822ab091ce4305.woff2": {
-      "modifiedTime": 1738079048107,
+      "modifiedTime": 1738164799731,
       "sourceSize": 104332,
       "exportedPath": "lib/fonts/2d5198822ab091ce4305.woff2",
       "dependencies": []
     },
     "lib/fonts/c8ba52b05a9ef10f4758.woff2": {
-      "modifiedTime": 1738079048107,
+      "modifiedTime": 1738164799731,
       "sourceSize": 98868,
       "exportedPath": "lib/fonts/c8ba52b05a9ef10f4758.woff2",
       "dependencies": []
     },
     "lib/fonts/cb10ffd7684cd9836a05.woff2": {
-      "modifiedTime": 1738079048107,
+      "modifiedTime": 1738164799731,
       "sourceSize": 106876,
       "exportedPath": "lib/fonts/cb10ffd7684cd9836a05.woff2",
       "dependencies": []
     },
     "lib/fonts/b5f0f109bc88052d4000.woff2": {
-      "modifiedTime": 1738079048107,
+      "modifiedTime": 1738164799731,
       "sourceSize": 105804,
       "exportedPath": "lib/fonts/b5f0f109bc88052d4000.woff2",
       "dependencies": []
     },
     "lib/fonts/cbe0ae49c52c920fd563.woff2": {
-      "modifiedTime": 1738079048107,
+      "modifiedTime": 1738164799731,
       "sourceSize": 106108,
       "exportedPath": "lib/fonts/cbe0ae49c52c920fd563.woff2",
       "dependencies": []
     },
     "lib/fonts/535a6cf662596b3bd6a6.woff2": {
-      "modifiedTime": 1738079048107,
+      "modifiedTime": 1738164799731,
       "sourceSize": 111708,
       "exportedPath": "lib/fonts/535a6cf662596b3bd6a6.woff2",
       "dependencies": []
     },
     "lib/fonts/70cc7ff27245e82ad414.ttf": {
-      "modifiedTime": 1738079048107,
+      "modifiedTime": 1738164799731,
       "sourceSize": 192740,
       "exportedPath": "lib/fonts/70cc7ff27245e82ad414.ttf",
       "dependencies": []
     },
     "lib/fonts/454577c22304619db035.ttf": {
-      "modifiedTime": 1738079048107,
+      "modifiedTime": 1738164799731,
       "sourceSize": 161376,
       "exportedPath": "lib/fonts/454577c22304619db035.ttf",
       "dependencies": []
     },
     "lib/fonts/52ac8f3034507f1d9e53.ttf": {
-      "modifiedTime": 1738079048107,
+      "modifiedTime": 1738164799731,
       "sourceSize": 191568,
       "exportedPath": "lib/fonts/52ac8f3034507f1d9e53.ttf",
       "dependencies": []
     },
     "lib/fonts/05b618077343fbbd92b7.ttf": {
-      "modifiedTime": 1738079048107,
+      "modifiedTime": 1738164799731,
       "sourceSize": 155288,
       "exportedPath": "lib/fonts/05b618077343fbbd92b7.ttf",
       "dependencies": []
     },
     "lib/fonts/4bb6ac751d1c5478ff3a.woff2": {
-      "modifiedTime": 1738079048107,
+      "modifiedTime": 1738164799731,
       "sourceSize": 7876,
       "exportedPath": "lib/fonts/4bb6ac751d1c5478ff3a.woff2",
       "dependencies": []
     },
     "lib/media/874d8b8e340f75575caa.svg": {
-      "modifiedTime": 1738079048107,
+      "modifiedTime": 1738164799731,
       "sourceSize": 317,
       "exportedPath": "lib/media/874d8b8e340f75575caa.svg",
       "dependencies": []
     },
     "lib/html/file-tree.html": {
-      "modifiedTime": 1738079048107,
-      "sourceSize": 38722,
+      "modifiedTime": 1738164799731,
+      "sourceSize": 40710,
       "exportedPath": "lib/html/file-tree.html",
       "dependencies": []
     },
     "lib/scripts/webpage.js": {
-      "modifiedTime": 1738079048107,
+      "modifiedTime": 1738164799731,
       "sourceSize": 47290,
       "exportedPath": "lib/scripts/webpage.js",
       "dependencies": []
     },
     "lib/scripts/graph-view.js": {
-      "modifiedTime": 1738079048107,
+      "modifiedTime": 1738164799731,
       "sourceSize": 15519,
       "exportedPath": "lib/scripts/graph-view.js",
       "dependencies": []
     },
     "lib/scripts/graph-wasm.js": {
-      "modifiedTime": 1738079048107,
+      "modifiedTime": 1738164799731,
       "sourceSize": 14021,
       "exportedPath": "lib/scripts/graph-wasm.js",
       "dependencies": []
     },
     "lib/scripts/graph-render-worker.js": {
-      "modifiedTime": 1738079048107,
+      "modifiedTime": 1738164799731,
       "sourceSize": 5179,
       "exportedPath": "lib/scripts/graph-render-worker.js",
       "dependencies": []
     },
     "lib/scripts/tinycolor.js": {
-      "modifiedTime": 1738079048107,
+      "modifiedTime": 1738164799731,
       "sourceSize": 29832,
       "exportedPath": "lib/scripts/tinycolor.js",
       "dependencies": []
     },
     "lib/scripts/pixi.js": {
-      "modifiedTime": 1738079048107,
+      "modifiedTime": 1738164799731,
       "sourceSize": 449509,
       "exportedPath": "lib/scripts/pixi.js",
       "dependencies": []
     },
     "lib/scripts/minisearch.js": {
-      "modifiedTime": 1738079048107,
+      "modifiedTime": 1738164799731,
       "sourceSize": 29422,
       "exportedPath": "lib/scripts/minisearch.js",
       "dependencies": []
     },
     "lib/media/favicon.png": {
-      "modifiedTime": 1738079048107,
+      "modifiedTime": 1738164799731,
       "sourceSize": 1105,
       "exportedPath": "lib/media/favicon.png",
       "dependencies": []
     },
     "lib/scripts/graph-data.js": {
-      "modifiedTime": 1738079048107,
-      "sourceSize": 4423,
+      "modifiedTime": 1738164799731,
+      "sourceSize": 4542,
       "exportedPath": "lib/scripts/graph-data.js",
       "dependencies": []
     },
     "lib/styles/obsidian.css": {
-      "modifiedTime": 1738079048107,
+      "modifiedTime": 1738164799731,
       "sourceSize": 131021,
       "exportedPath": "lib/styles/obsidian.css",
       "dependencies": []
     },
     "lib/styles/global-variable-styles.css": {
-      "modifiedTime": 1738079048107,
+      "modifiedTime": 1738164799731,
       "sourceSize": 236,
       "exportedPath": "lib/styles/global-variable-styles.css",
       "dependencies": []
     },
     "lib/styles/main-styles.css": {
-      "modifiedTime": 1738079048107,
+      "modifiedTime": 1738164799731,
       "sourceSize": 23130,
       "exportedPath": "lib/styles/main-styles.css",
       "dependencies": []
